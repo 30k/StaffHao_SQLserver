@@ -1,0 +1,10 @@
+D:\Projects\StaffHao_SQLserver\LibraryHAO\obj\Debug\LibraryHAO.csprojResolveAssemblyReference.cache
+D:\Projects\StaffHao_SQLserver\LibraryHAO\bin\Debug\LibraryHAO.dll
+D:\Projects\StaffHao_SQLserver\LibraryHAO\bin\Debug\LibraryHAO.pdb
+D:\Projects\StaffHao_SQLserver\LibraryHAO\obj\Debug\LibraryHAO.dll
+D:\Projects\StaffHao_SQLserver\LibraryHAO\obj\Debug\LibraryHAO.pdb
+C:\Users\Yuan\Documents\Visual Studio 2012\Projects\StaffHao_SQLserver\LibraryHAO\bin\Debug\LibraryHAO.dll
+C:\Users\Yuan\Documents\Visual Studio 2012\Projects\StaffHao_SQLserver\LibraryHAO\bin\Debug\LibraryHAO.pdb
+C:\Users\Yuan\Documents\Visual Studio 2012\Projects\StaffHao_SQLserver\LibraryHAO\obj\Debug\LibraryHAO.csprojResolveAssemblyReference.cache
+C:\Users\Yuan\Documents\Visual Studio 2012\Projects\StaffHao_SQLserver\LibraryHAO\obj\Debug\LibraryHAO.dll
+C:\Users\Yuan\Documents\Visual Studio 2012\Projects\StaffHao_SQLserver\LibraryHAO\obj\Debug\LibraryHAO.pdb

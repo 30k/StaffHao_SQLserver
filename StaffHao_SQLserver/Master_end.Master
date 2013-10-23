@@ -1,0 +1,121 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master_end.master.cs" Inherits="StaffHao_SQLserver.Master_end" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link rel="stylesheet" type="text/css" href="CSS/hao.css" />
+    <link rel="stylesheet" type="text/css" href="CSS/logoff.css" />
+    <link href="CSS/back_component.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form2" runat="server" method="post" enctype="multipart/form-data">
+    <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" ShowStartingNode="true" />
+    
+    <div id="page">
+        <header id="header">
+            <img class="vu_logo" src="Pictures/Master/Victoria-University-logo-horizontal-high-res-CMYK.jpg" />
+        </header>
+                <!--Navagation bar Start-->
+        <div id="cssmenu">
+            <ul>
+                <li class="active"><a href="db_new.aspx">News</a></li>
+                <li class="has-sub"><a href="db_subject.aspx">Teaching</a>
+                    <ul>
+                        <li class="has-sub"><a href="db_subject.aspx">Subjects</a></li>
+                        <li class="has-sub"><a href="db_grant.aspx">Grants</a></li>
+                    </ul>
+                </li>
+                <li class="has-sub"><a href="db_project.aspx">Researchs</a>
+                    <ul>
+                        <li class="has-sub"><a href="db_project.aspx">Projects</a></li>
+			            <li class="has-sub"><a href="db_publication.aspx">Publicatioins</a></li>
+                    </ul>
+                </li>
+                <li class="has-sub"><a href="db_partener.aspx">Industry</a>
+                    <ul>
+                        <li class="has-sub"><a href="db_partener.aspx">Partners</a></li>
+			            <li class="has-sub"><a href="db_collaboration.aspx">Collaboration</a></li>
+                    </ul>
+                </li>
+                <li class="has-sub"><a href="db_event.aspx">Events</a>
+                    <ul>
+                        <li class="has-sub"><a href="db_event.aspx">Album</a></li>
+                        <li class="has-sub"><a href="db_upload.aspx">Photo upload</a></li>
+                    </ul>
+                </li>
+		        <li><a href="db_job.aspx">Jobs</a></li>
+
+            </ul>
+        </div>
+        <!--Navagation bar End-->
+        <div id="faculity">
+            <div class="f_left">
+                <img class="f_photo" src="Pictures/Master/Engineering and science.PNG" alt="Engineering and Science"/>
+            </div>
+            <div class="f_right">
+                <span class="f_head"><strong>Welcome ADMIN</strong></span>
+                <script type="text/javascript" src="http://www.brainyquote.com/link/quotebr.js" role="banner"></script>
+            </div>    
+            <div class="f_logoff">
+            <div class="user">
+            <img src="Pictures/images/avatar.png"/>
+            <h5>Sheldon Cooper <small>Chief Theory Officer</small></h5>
+            <ul>
+                <li><a href="db_staff.aspx">Edit profilo</a></li>
+                <li><a>Upload files</a></li>
+                <li class="sep"><asp:LinkButton ID="LinkButton1" runat="server">Log off</asp:LinkButton></li>
+            </ul>
+            </div>
+            </div>
+                             
+        </div>
+
+        <div id="content">
+            <div class="bp_c_right">                
+                
+                    You are:
+                    <asp:SiteMapPath ID="SiteMapPath1" runat="server" Font-Names="Verdana" Font-Size="0.8em" PathSeparator=" : ">
+                        <CurrentNodeStyle ForeColor="#333333" />
+                        <NodeStyle Font-Bold="True" ForeColor="#7C6F57" />
+                        <PathSeparatorStyle Font-Bold="True" ForeColor="#5D7B9D" />
+                        <RootNodeStyle Font-Bold="True" ForeColor="#5D7B9D" />
+                    </asp:SiteMapPath>
+                    <div>
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">  
+                                                   
+                        </asp:ContentPlaceHolder>
+                    </div>
+                    
+                                     
+            </div>
+        </div>
+
+        <div id="footer">
+            <div id="nav_footer">
+<ul class="menu-footer">
+    <li><a href="http://www.vu.edu.au/contact-us">Contact us</a></li>
+    <li><a href="http://www.vu.edu.au/">Victoria University</a></li>
+    <li><a href="https://myvuportal.vu.edu.au/uPortal/render.userLayoutRootNode.uP">MYVU Portal</a></li>
+    <li><a href="https://ce6.vu.edu.au/webct/entryPageIns.dowebct">WebCT</a></li>
+    <li><a href="http://www.vu.edu.au/library">VU Library</a></li>
+    <li><a href="m_login.aspx"><span class="auto-style6">data base login</span></a></li>
+</ul>
+
+            </div>
+
+            <div>CopyRight 2009 Associate Professor Hao.Shi CRICOS Provider No.00124K</div>
+            <div class="footer_link">
+                <strong><a href="http://www.vu.edu.au/Services/Governance_and_Policy_Branch" title="Policies">Policies</a></strong> | 
+                <strong><a href="http://www.vu.edu.au/home/Legal/Index.asp" title="Disclaimer">Disclaimer</a></strong> | 
+                <strong><a href="http://www.vu.edu.au/library/pdf/ipppg.pdf" title="Privacy">Privacy</a></strong> | 
+                <strong><a href="http://www.staff.vu.edu.au/haoshi/Default.asp" title="Contact Me">Contact Me</a></strong> | 
+            </div>
+        </div>
+    </div>
+    </form>
+</body>
+</html>

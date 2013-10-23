@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="Default.aspx" title="Hao"  description="">
+    <siteMapNode url="" title="Teaching"  description="" >
+      <siteMapNode url="fe_subject.aspx" title="Subject" description=""/>
+      <siteMapNode url="=fe_grant.aspx" title="Grants" description=""/>
+    </siteMapNode>
+    <siteMapNode url="" title="Research"  description="">
+      <siteMapNode url="fe_project.aspx" title="Project" description=""/>
+      <siteMapNode url="fe_publication.aspx" title="Publication"  description=""/>
+    </siteMapNode>
+    <siteMapNode url="" title="Industry" description="">
+      <siteMapNode url="fe_partener.aspx" title="Partener" description=""/>
+      <siteMapNode url="fe_collaboration.aspx" title="Collaboration" description=""/>
+    </siteMapNode>
+    <siteMapNode url="fe_job.aspx" title="Job" description=""/>
+    <siteMapNode url="fe_event.aspx" title="Event" description=""/>
+
+    <siteMapNode url="db_new.aspx" description="" title="New"/>
+    <siteMapNode url="" title="Teaching"  description="" >
+      <siteMapNode url="db_subject.aspx" title="Subject" description=""/>
+      <siteMapNode url="db_grant.aspx" title="Grants" description=""/>
+    </siteMapNode>
+    <siteMapNode url="" title="Research"  description="">
+      <siteMapNode url="db_project.aspx" title="Project" description=""/>
+      <siteMapNode url="db_publication.aspx" title="Publication"  description=""/>
+    </siteMapNode>
+    <siteMapNode url="" title="Industry" description="">
+      <siteMapNode url="db_partener.aspx" title="Partener" description=""/>
+      <siteMapNode url="db_collaboration.aspx" title="Collaboration" description=""/>
+    </siteMapNode>
+    <siteMapNode url="db_job.aspx" title="Job" description=""/>
+    <siteMapNode url="db_event.aspx" title="Event" description=""/>
+    <siteMapNode url="Login.aspx" title="Admin login" description=""/>
+  </siteMapNode>
+</siteMap>

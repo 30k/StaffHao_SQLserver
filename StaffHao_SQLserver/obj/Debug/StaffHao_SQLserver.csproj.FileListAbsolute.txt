@@ -1,0 +1,19 @@
+E:\desktop\Projects\StaffHao_SQLserver\StaffHao_SQLserver\bin\StaffHao_SQLserver.dll
+E:\desktop\Projects\StaffHao_SQLserver\StaffHao_SQLserver\bin\StaffHao_SQLserver.pdb
+E:\desktop\Projects\StaffHao_SQLserver\StaffHao_SQLserver\obj\Debug\StaffHao_SQLserver.csprojResolveAssemblyReference.cache
+E:\desktop\Projects\StaffHao_SQLserver\StaffHao_SQLserver\obj\Debug\StaffHao_SQLserver.dll
+E:\desktop\Projects\StaffHao_SQLserver\StaffHao_SQLserver\obj\Debug\StaffHao_SQLserver.pdb
+D:\Projects\StaffHao_SQLserver\StaffHao_SQLserver\bin\StaffHao_SQLserver.dll
+D:\Projects\StaffHao_SQLserver\StaffHao_SQLserver\bin\StaffHao_SQLserver.pdb
+D:\Projects\StaffHao_SQLserver\StaffHao_SQLserver\obj\Debug\StaffHao_SQLserver.csprojResolveAssemblyReference.cache
+D:\Projects\StaffHao_SQLserver\StaffHao_SQLserver\obj\Debug\StaffHao_SQLserver.dll
+D:\Projects\StaffHao_SQLserver\StaffHao_SQLserver\obj\Debug\StaffHao_SQLserver.pdb
+D:\Projects\StaffHao_SQLserver\StaffHao_SQLserver\bin\LibraryHAO.dll
+D:\Projects\StaffHao_SQLserver\StaffHao_SQLserver\bin\LibraryHAO.pdb
+C:\Users\Yuan\Documents\Visual Studio 2012\Projects\StaffHao_SQLserver\StaffHao_SQLserver\bin\StaffHao_SQLserver.dll
+C:\Users\Yuan\Documents\Visual Studio 2012\Projects\StaffHao_SQLserver\StaffHao_SQLserver\bin\StaffHao_SQLserver.pdb
+C:\Users\Yuan\Documents\Visual Studio 2012\Projects\StaffHao_SQLserver\StaffHao_SQLserver\bin\LibraryHAO.dll
+C:\Users\Yuan\Documents\Visual Studio 2012\Projects\StaffHao_SQLserver\StaffHao_SQLserver\bin\LibraryHAO.pdb
+C:\Users\Yuan\Documents\Visual Studio 2012\Projects\StaffHao_SQLserver\StaffHao_SQLserver\obj\Debug\StaffHao_SQLserver.csprojResolveAssemblyReference.cache
+C:\Users\Yuan\Documents\Visual Studio 2012\Projects\StaffHao_SQLserver\StaffHao_SQLserver\obj\Debug\StaffHao_SQLserver.dll
+C:\Users\Yuan\Documents\Visual Studio 2012\Projects\StaffHao_SQLserver\StaffHao_SQLserver\obj\Debug\StaffHao_SQLserver.pdb

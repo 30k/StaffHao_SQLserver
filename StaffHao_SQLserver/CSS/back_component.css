@@ -1,0 +1,20 @@
+﻿.mGridView {
+    width:auto;
+
+}
+
+.mDetailView {
+    width:auto;
+}
+
+#list{
+    font-family: 'Comic Sans MS';
+    font-size: xx-large;
+    color: red;
+}
+
+#manage {
+    font-family: 'Comic Sans MS';
+    font-size: xx-large;
+    color: red;
+}
